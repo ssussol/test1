@@ -1,0 +1,11 @@
+C:\dev\ConsoleCore\ConsoleCore\bin\Debug\netcoreapp3.0\ConsoleCore.exe
+C:\dev\ConsoleCore\ConsoleCore\bin\Debug\netcoreapp3.0\ConsoleCore.deps.json
+C:\dev\ConsoleCore\ConsoleCore\bin\Debug\netcoreapp3.0\ConsoleCore.runtimeconfig.json
+C:\dev\ConsoleCore\ConsoleCore\bin\Debug\netcoreapp3.0\ConsoleCore.runtimeconfig.dev.json
+C:\dev\ConsoleCore\ConsoleCore\bin\Debug\netcoreapp3.0\ConsoleCore.dll
+C:\dev\ConsoleCore\ConsoleCore\bin\Debug\netcoreapp3.0\ConsoleCore.pdb
+C:\dev\ConsoleCore\ConsoleCore\obj\Debug\netcoreapp3.0\ConsoleCore.csprojAssemblyReference.cache
+C:\dev\ConsoleCore\ConsoleCore\obj\Debug\netcoreapp3.0\ConsoleCore.AssemblyInfoInputs.cache
+C:\dev\ConsoleCore\ConsoleCore\obj\Debug\netcoreapp3.0\ConsoleCore.AssemblyInfo.cs
+C:\dev\ConsoleCore\ConsoleCore\obj\Debug\netcoreapp3.0\ConsoleCore.dll
+C:\dev\ConsoleCore\ConsoleCore\obj\Debug\netcoreapp3.0\ConsoleCore.pdb
