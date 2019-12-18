@@ -15,7 +15,7 @@ namespace ConsoleCore
 			// New result
 			//   Environment.Version: 3.0.0
 			Console.WriteLine($"RuntimeInformation.FrameworkDescription: {System.Runtime.InteropServices.RuntimeInformation.FrameworkDescription}");
-
+			Console.WriteLine("");
 			// Old result
 			//   RuntimeInformation.FrameworkDescription: .NET Core 4.6.27415.71
 			//
